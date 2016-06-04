@@ -1,0 +1,10 @@
+
+{
+  "name": "apex-sample",
+  "description": "apex-sample",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::910161548372:role/lambda-execution-role",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
